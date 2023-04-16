@@ -21,7 +21,7 @@ Contact and suggestions: mpk_AT_jacekk.info
 ### Changing language
 
 You can change the interface language using the dropdown near "TTSS Kraków" header.
-Currently only Polish (PL) and English (EN) translations are available.
+Currently only Polish, English and Spanish translations are available.
 
 ### Selecting the stop
 
